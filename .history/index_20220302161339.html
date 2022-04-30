@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+    <link rel="stylesheet" href="./css/app.css">
+  
+</head>
+<body>
+    <div class="button">
+        <input type="text" class="text-input" placeholder="text">
+        <button class="btn">Submit</button>
+        <p class="input-btn">Hello</p>
+    </div>
+    <!-- <script src="./Event/scroll.js"></script> -->
+
+    <script>
+        const input = document.querySelector(".text-input");
+        const button = document.querySelector(".btn");
+        const text = document.querySelector(".input-btn");
+        button.addEventListener("click" , function() {
+           text.textContent = dataInput;
+           console.log(dataInput);
+        });
+        
+    </script>
+</body>
+</html>

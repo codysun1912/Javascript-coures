@@ -1,0 +1,32 @@
+// window.addEventListener("scroll", debounceFn(function(e){
+//     console.log("scroll");
+// }, 100));
+
+
+
+// function debounceFn(func, wait, immediate) {
+//     let timeout;
+//     return function () {
+//       let context = this,
+//         args = arguments;
+//       let later = function () {
+//         timeout = null;
+//         if (!immediate) func.apply(context, args);
+//       };
+//       let callNow = immediate && !timeout;
+//       clearTimeout(timeout);
+//       timeout = setTimeout(later, wait);
+//       if (callNow) func.apply(context, args);
+//     };
+// }
+
+//window.pageYoffset va window.pageXoffset
+
+
+//scrolltop , scrollleft , scrollwidth , scrollheight , scrollto ,scroll
+
+
+//offsetwidth vs scrollwidth
+
+// scrollintoview no scroll toi vi tri ma chung ta thay dc
+

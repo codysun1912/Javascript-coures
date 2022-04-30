@@ -1,0 +1,36 @@
+{
+  "posts": [],
+  "courses": [
+    
+    {
+      "image": "https://images.unsplash.com/photo-1646639138820-54404ddb351b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "title": "ab",
+      "author": "b",
+      "rating": "1",
+      "price": "22",
+      "bestSeller": true,
+      "buyAmount": "11111",
+      "id": 2
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1646639138820-54404ddb351b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "title": "ad",
+      "author": "a",
+      "rating": 5,
+      "price": 55,
+      "bestSeller": true,
+      "buyAmount": 5555,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

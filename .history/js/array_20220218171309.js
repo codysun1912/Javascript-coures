@@ -1,0 +1,1 @@
+const student1 = ["a", "b","c","d"];

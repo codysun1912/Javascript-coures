@@ -1,0 +1,1 @@
+const jokeHeading = document.querySelector(".joke-heading");

@@ -1,0 +1,1 @@
+const boxed = document.querySelector(".boxed");

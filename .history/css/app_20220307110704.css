@@ -1,0 +1,19 @@
+.joke{
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  padding: 100px 50px ;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}
+
+.joke-button{
+  border:0;
+  outline:none;
+  display:block;
+  padding:10px 30px;
+  border-radius: 8px;
+  color:white;
+
+}

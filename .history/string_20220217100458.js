@@ -1,0 +1,1 @@
+//string là một chuỗi
